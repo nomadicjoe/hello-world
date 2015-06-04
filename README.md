@@ -1,2 +1,3 @@
 # hello-world
-My first repository on GitHub
+=====
+programming is new to me
